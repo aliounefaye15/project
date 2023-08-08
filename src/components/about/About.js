@@ -9,8 +9,8 @@ function About() {
         <div class=" row align-items-start">
             
      <div class="col-6 col-4 col-lg-4">
-     <h2>About me</h2>
-        <img style={{marginLeft:'45px'}} src={require("../../assets/images/a1.png")}/>
+     <h2 style={{marginLeft:'40px', fontSize: '40px',fontWeight: '600'}}>About me</h2>
+        <img style={{marginLeft:'40px'}} src={require("../../assets/images/a1.png")}/>
        </div>
               
         

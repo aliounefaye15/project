@@ -14,7 +14,7 @@ function About() {
        </div>
               
         
-    <div style={{marginRight:'10px'}}  class="col-6  col-12 col-lg-8 row  ">
+    <div style={{marginRight:'10px'}}  class="div col-6  col-12 col-lg-8 row  ">
     <p >
                 Bienvenue sur notre page "À propos" ! Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Sed vitae enim euismod, consectetur arcu eu, pretium turpis. Nunc ac metus fermentum, posuere eros

@@ -24,13 +24,13 @@ p{
     margin:5px;
 }
 
-@media (min-width:425px) and (max-width:999px){
+@media (min-width:260px) and (max-width:999px){
   img.imagen1{
-          width: 10px;
+          width: 40px;
       }
   
       img.imagen2{
-          width: 10px;
+          width: 40px;
       }
   }
  

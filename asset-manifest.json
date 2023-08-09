@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio.git/static/css/main.f85b9d6d.css",
-    "main.js": "/portfolio.git/static/js/main.1badd3bb.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio.git/static/js/787.1ed0c42c.chunk.js",
-    "static/media/image.png": "/portfolio.git/static/media/image.6bd326f5a697f99040f4.png",
-    "static/media/a1.png": "/portfolio.git/static/media/a1.e58f613139c5619ddd48.png",
-    "static/media/Card 1.png": "/portfolio.git/static/media/Card 1.395763da0941f95d8fc8.png",
-    "static/media/Card 2.png": "/portfolio.git/static/media/Card 2.2e73b8ce0e16ba46718f.png",
-    "static/media/Card 3.png": "/portfolio.git/static/media/Card 3.56de04239d3cb0dba8d9.png",
-    "static/media/Card 4.png": "/portfolio.git/static/media/Card 4.54fb94fa5f34b6d88449.png",
-    "index.html": "/portfolio.git/index.html",
-    "main.f85b9d6d.css.map": "/portfolio.git/static/css/main.f85b9d6d.css.map",
-    "main.1badd3bb.js.map": "/portfolio.git/static/js/main.1badd3bb.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio.git/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/project.git/static/css/main.f225c5c3.css",
+    "main.js": "/project.git/static/js/main.8c7c5bf8.js",
+    "static/js/787.ec704a7a.chunk.js": "/project.git/static/js/787.ec704a7a.chunk.js",
+    "static/media/image.png": "/project.git/static/media/image.6bd326f5a697f99040f4.png",
+    "static/media/a1.png": "/project.git/static/media/a1.e58f613139c5619ddd48.png",
+    "static/media/Card 1.png": "/project.git/static/media/Card 1.395763da0941f95d8fc8.png",
+    "static/media/Card 2.png": "/project.git/static/media/Card 2.2e73b8ce0e16ba46718f.png",
+    "static/media/Card 3.png": "/project.git/static/media/Card 3.56de04239d3cb0dba8d9.png",
+    "static/media/Card 4.png": "/project.git/static/media/Card 4.54fb94fa5f34b6d88449.png",
+    "index.html": "/project.git/index.html",
+    "main.f225c5c3.css.map": "/project.git/static/css/main.f225c5c3.css.map",
+    "main.8c7c5bf8.js.map": "/project.git/static/js/main.8c7c5bf8.js.map",
+    "787.ec704a7a.chunk.js.map": "/project.git/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f85b9d6d.css",
-    "static/js/main.1badd3bb.js"
+    "static/css/main.f225c5c3.css",
+    "static/js/main.8c7c5bf8.js"
   ]
 }
